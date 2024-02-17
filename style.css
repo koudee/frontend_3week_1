@@ -40,8 +40,8 @@ h2 {
 }
 
 .timer-card {
-    /* width: 50%;
-    min-width: fit-content; */
+    width: 50%;
+    min-width: fit-content;
 
     width: 50%;
 
@@ -152,7 +152,6 @@ button {
     row-gap: 18px;
 
     >.current-timers-heading {
-        /* min-width: 30%; */
         background-color: #313131;
         color: white;
 
